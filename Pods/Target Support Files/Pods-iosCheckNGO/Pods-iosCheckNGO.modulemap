@@ -1,0 +1,6 @@
+framework module Pods_iosCheckNGO {
+  umbrella header "Pods-iosCheckNGO-umbrella.h"
+
+  export *
+  module * { export * }
+}
